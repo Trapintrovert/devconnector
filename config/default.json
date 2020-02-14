@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://trapintrovert:amstrong@devconnector-bw3ng.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "Iv1.61b68a5d327c7af7",
+  "githubSecret": "77fa078cf5f495695decb87a8243a108cc175f5f"
 }
