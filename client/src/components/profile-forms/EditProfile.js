@@ -99,7 +99,7 @@ const EditProfile = ({
             placeholder='Company'
             name='company'
             value={company}
-            onChange={onChange}
+            onChange={e => onChange(e)}
           />
           <small className='form-text'>
             Could be your own company or one you work for
